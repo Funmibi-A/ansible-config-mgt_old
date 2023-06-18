@@ -1,5 +1,5 @@
 [nfs]
-172.31.81.138 ansible_ssh_user='ec2-user'
+173.31.81.138 ansible_ssh_user='ec2-user'
 
 [webservers]
 172.31.94.252 ansible_ssh_user='ec2-user'
