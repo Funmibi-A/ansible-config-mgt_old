@@ -10,3 +10,4 @@
 
 [lb]
 172.31.83.12 ansible_ssh_user='ubuntu'
+
