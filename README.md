@@ -1,6 +1,5 @@
 # Ansible Configuraton Management
 
-test
 
 
 
